@@ -13,7 +13,7 @@ C'est notre composant enfant.
 
 Caractéristiques du composant `Die` :
 state : `value` qui est un nombre aléatoire entre 1 et 6
-handler : `roll` qui met à jour la valeur de `value` avec un nombre aléatoire entre 1 et 6 quand on `click` sur le composant
+handler : `roll` qui met à jour la valeur de `value` avec un nombre alé atoire entre 1 et 6 quand on `click` sur le composant
 
 On va ensuite l'afficher dans le composant `App` qui est notre composant parent.
 
